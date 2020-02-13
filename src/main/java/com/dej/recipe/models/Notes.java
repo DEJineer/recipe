@@ -2,6 +2,7 @@ package com.dej.recipe.models;
 
 import javax.persistence.*;
 
+@Entity
 public class Notes {
 
     @Id
